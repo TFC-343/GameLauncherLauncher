@@ -1,0 +1,8 @@
+C:\Program Files (x86)\Battle.net\Battle.net Launcher.exe | Battle.net Launcher
+C:\Program Files (x86)\Steam\Steam.exe | Steam
+C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe | Epic Games Launcher
+C:\Program Files (x86)\Origin\Origin.exe | Origin
+C:\Program Files (x86)\Minecraft\MinecraftLauncher.exe | Minecraft
+C:\Users\User\AppData\Local\Discord\app-0.0.304\Discord.exe | Discord
+C:\Users\User\AppData\Local\osu!\osu!.exe | osu!
+C:\Program Files\JetBrains\PyCharm Community Edition 2018.3.2\bin\pycharm64.exe | Pycharm
